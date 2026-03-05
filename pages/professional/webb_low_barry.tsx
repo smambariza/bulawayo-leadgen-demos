@@ -1,4 +1,4 @@
-import ProfessionalDemo from './professional_template';
+import ProfessionalDemo from '../../templates/professional/professional_template';
 
 const WebbLowBarryDemo = () => {
   return (

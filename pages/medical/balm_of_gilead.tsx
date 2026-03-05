@@ -1,4 +1,4 @@
-import MedicalDemo from './medical_template';
+import MedicalDemo from '../../templates/medical/medical_template';
 
 const BalmOfGileadDemo = () => {
   return (

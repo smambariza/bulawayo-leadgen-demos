@@ -1,4 +1,4 @@
-import HospitalityDemo from './hospitality_template';
+import HospitalityDemo from '../../templates/hospitality/hospitality_template';
 
 const NesbittCastleDemo = () => {
   return (
